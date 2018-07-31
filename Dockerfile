@@ -1,4 +1,4 @@
-FROM alpine
+FROM iterium/symfony3-php7fpm:v0.2
 
 MAINTAINER Kirill Garbar <kirill@iterium.co.uk>
 
